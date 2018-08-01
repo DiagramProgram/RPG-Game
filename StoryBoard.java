@@ -1,3 +1,6 @@
+//Text based RPG Game
+//Theme revolves around the idea of a character that is stranded on an island who encounters many different adventures/characters as he explores his surroundings
+//Developed by: Yuktesh
 import javax.swing.JOptionPane;
 import javax.swing.JDialog;
 import javax.swing.JOptionPane; //imported already available java libraries
